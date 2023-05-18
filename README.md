@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, this is Towsif</h1>
-<a href="https://git.io/typing-svg"><img align="center"  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&pause=1000&center=true&width=435&lines=A+passionate+programmer+;And+a+fast+typist+from+Bangladesh+" alt="Typing SVG" /></a>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/02/85/63/42/360_F_285634218_CASbdgrbtmWUjXut8TfJbRFY6abaRXET.jpg">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=false&vCenter=false&multiline=true&width=471&height=63&lines=A+passionate+programmer+;And+a+fast+typist+from+Bangladesh" alt="Typing SVG" /></a>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tishat2247019&label=Profile%20views&color=0e75b6&style=flat" alt="tishat2247019" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
