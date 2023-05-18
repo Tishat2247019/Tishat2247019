@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Towsif</h1>
-<h3 align="center">A passionate programmer and fast typist from Bangladesh</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+mono&pause=1000&width=435&lines=A+passionate+programmer+;And+a+fast+typist+from+Bangladesh+" alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/02/85/63/42/360_F_285634218_CASbdgrbtmWUjXut8TfJbRFY6abaRXET.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tishat2247019&label=Profile%20views&color=0e75b6&style=flat" alt="tishat2247019" /> </p>
 
