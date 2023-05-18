@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, this is Towsif</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=false&vCenter=false&multiline=true&width=471&height=63&lines=A+passionate+programmer+;And+a+fast+typist+from+Bangladesh" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=471&height=63&lines=A+passionate+programmer+;And+a+fast+typist+from+Bangladesh" alt="Typing SVG" /></a>
+  </p>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
