@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, this is Towsif</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=471&height=63&lines=A+passionate+programmer+;And+a+fast+typist+from+Bangladesh" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color==F7F4F4&center=true&vCenter=true&multiline=true&width=471&height=63&lines=A+passionate+programmer+;And+a+fast+typist+from+Bangladesh" alt="Typing SVG" /></a>
   </p>
 <!--- snake -->
 <div align="center">
