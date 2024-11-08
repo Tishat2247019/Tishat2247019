@@ -3,11 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color==F7F4F4&center=true&vCenter=true&multiline=true&width=471&height=63&lines=A+passionate+programmer+;And+a+fast+typist+from+Bangladesh" alt="Typing SVG" /></a>
   </p>
 <!--- snake -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
   </a>
-</div>
+</div> -->
 
 
 <!--h2 without bottom border-->
