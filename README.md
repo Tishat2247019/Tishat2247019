@@ -1,15 +1,4 @@
-<div align="center" style="margin: 0; padding: 0;">
-  <img height="350" src="https://github.com/user-attachments/assets/956783c6-c7f9-4e31-b4a0-cadfa260f9f6"  />
-</div>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img height="350" src="https://github.com/user-attachments/assets/956783c6-c7f9-4e31-b4a0-cadfa260f9f6" style="display: block; margin: 0; padding: 0;" />
-    </td>
-  </tr>
-</table>
-
+<img height="350" src="https://github.com/user-attachments/assets/956783c6-c7f9-4e31-b4a0-cadfa260f9f6"  />
 <div>
 <h3 align="left">👩‍💻  About Me</h3>
 
