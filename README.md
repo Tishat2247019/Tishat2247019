@@ -1,4 +1,4 @@
-<div align="center" style="margin: 0; padding: 0;">
+<div align="center" >
   <img height="350" src="https://github.com/user-attachments/assets/956783c6-c7f9-4e31-b4a0-cadfa260f9f6"  />
 </div>
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats </h3>
 
 ###
 
@@ -96,12 +96,17 @@
 </td>
 </tr>
 </table>
-  
-  
-  
+
 </div>
 
 
+###
+
+<h3 align="left">🔥   Monkeytype Profile </h3>
+
+<div align="center" >
+  <img height="350" src="https://github.com/user-attachments/assets/bd9fc0f0-4028-4d08-a6c0-7d8d7004e3c5"  />
+</div>
 
 
 ###
