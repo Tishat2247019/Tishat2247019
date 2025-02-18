@@ -85,7 +85,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tishat2247019&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -113,6 +113,16 @@
 <h3 align="left"><img src="https://github.com/user-attachments/assets/1b99ae69-63e5-4bc5-834b-c06d9d75a75d" height="20px">&nbsp; &nbsp;Resume</h3>
 
 ###
+
+<div align="left">
+  <table>
+    <tr>
+      <td>
+  <img src="https://github.com/user-attachments/assets/5b040503-0f31-4496-8c4a-354e6299a50c" height="100px">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="left">Download</p>
 
