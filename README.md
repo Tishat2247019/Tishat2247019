@@ -104,8 +104,8 @@
 
 <h3 align="left">🔥   Monkeytype Profile </h3>
 
-<div align="center" >
-  <img height="350" src="https://github.com/user-attachments/assets/bd9fc0f0-4028-4d08-a6c0-7d8d7004e3c5"  />
+<div align="left" >
+  <img height="250" src="https://github.com/user-attachments/assets/bd9fc0f0-4028-4d08-a6c0-7d8d7004e3c5"  />
 </div>
 
 
