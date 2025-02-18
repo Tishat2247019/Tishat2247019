@@ -9,6 +9,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+
 <table>
   <tr>
     <td>
@@ -58,7 +59,7 @@
 
 ###
 
-<h3 align="left">Social accounts</h3>
+<h3 align="left"> Social accounts</h3>
 
 ###
 
@@ -85,9 +86,22 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tishat2247019&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tishat2247019&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Tishat2247019&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tishat2247019&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Tishat2247019&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com?user=Tishat2247019&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</td>
+</tr>
+</table>
+  
+  
+  
 </div>
 
 ###
@@ -96,7 +110,7 @@
 
 ###
 
-<h3 align="left">Download Resume</h3>
+<h3 align="left"><img src="https://github.com/user-attachments/assets/1b99ae69-63e5-4bc5-834b-c06d9d75a75d" height="20px">&nbsp; &nbsp;Resume</h3>
 
 ###
 
