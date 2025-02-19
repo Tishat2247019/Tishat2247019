@@ -1,5 +1,5 @@
 <div align="center" >
-  <img height="300" style="text-align: center; margin-bottom: 30px;" src="https://github.com/user-attachments/assets/d648bcb5-cf11-419d-8bc7-edaad33888b2" />
+  <img height="300" style="text-align: center; margin-bottom: 30px;" src="https://github.com/user-attachments/assets/ffe8725f-38a5-4afd-93c6-1f6e6bdbafed" />
 </div>
 <div>
 <h3 align="left">👩‍💻  About Me</h3>
