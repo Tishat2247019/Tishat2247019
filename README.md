@@ -137,7 +137,7 @@
     <tr>
       <td>
   <img src="https://github.com/user-attachments/assets/5b040503-0f31-4496-8c4a-354e6299a50c" height="100px">
-  <p align="left"><a href="https://github.com/Tishat2247019/Tishat2247019/blob/77f8e99fe2aa76088240ffc73a0fca1e3fb34cd0/Abu_Towsif_cv.pdf?raw=true">Download</a></p>
+  <p align="left"><a href="https://github.com/Tishat2247019/Tishat2247019/blob/69e11cc91c6245a5a9c584cd8e69bb5087420a41/Abu_Towsif_Resume.pdf?raw=true">Download</a></p>
       </td>
     </tr>
   </table>
